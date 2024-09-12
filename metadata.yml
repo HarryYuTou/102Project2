@@ -1,0 +1,12 @@
+---
+:id: 206664967
+:submitters:
+- :name: Leyan Yu
+  :email: ly2149@nyu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-27 00:31:53.494311000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-26 17:31:53.494311000 Z
+:status: processed
+:score: 99.4
